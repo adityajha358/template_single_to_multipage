@@ -1,5 +1,5 @@
 # template_single_to_multipage
-Templete Conversion of single scrolling webpage to multiple page navbar items.
+Template Conversion of single scrolling webpage to multiple page navbar items. (ref from:- https://www.free-css.com/free-css-templates/page285/seo-dream )
 ![1 home-index](https://user-images.githubusercontent.com/116146092/205286571-dc04b307-76eb-4071-949b-ab5b2b0d897b.png)
 ![2 feature](https://user-images.githubusercontent.com/116146092/205286581-a06fd4a3-dc6a-426e-9429-270d3a870b47.png)
 ![3 about](https://user-images.githubusercontent.com/116146092/205286588-ef8008d4-fe00-4c57-ab05-904f7db83818.png)
